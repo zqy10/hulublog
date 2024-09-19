@@ -1,9 +1,12 @@
 site_name: Hulu's Blog
+site_description: Not when I came to die, discover that I had not lived
+
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - toc.integrate
     - navigation.top
     - serach.suggest
@@ -24,6 +27,11 @@ theme:
         name: Switch to light mode
       primary: teal
       accent: lime  
+
+plugins:
+  - search
+  - blog:
+      archive_date_format: MMMM yyyy
 
 extra:
   social:
