@@ -1,0 +1,55 @@
+site_name: Hulu's Blog
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - serach.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: teal
+      accent: purple
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: teal
+      accent: lime  
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/zqy10
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<3230100228@zju.edu.cn>
+    - icon: fontawesome/brands/qq
+      link: mailto:<3508743071@qq.com>
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+copyright: 
+  Copyright &copy; 2024 <a href="https://github.com/zqy10" target="_blank" rel="noopener">Hulu ZQY</a>
