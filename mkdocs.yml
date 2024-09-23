@@ -3,6 +3,7 @@ site_description: Not when I came to die, discover that I had not lived
 
 theme:
   name: material
+  font: false
   features:
     - navigation.tabs
     - navigation.sections
