@@ -4,8 +4,8 @@ hide:
    - toc #显示左
 ---
 
-# 主页
-<center><font  color= #518FC1 size=6 class="ml3">“循此苦旅 以达星辰”</font></center>
+# Home
+<center><font  color= #518FC1 size=6 class="ml3">“循此苦旅，以达星辰”</font></center>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 <center>
 <div id="rcorners2" >
@@ -43,7 +43,7 @@ hide:
 </script>
 </div> 
 </center>
-!!! abstract "Hello World"
+!!! abstract "Enjoy the fucking life"
     <center><font size=4>I went to the woods because I wanted to live deliberately.  
     I wanted to live deep and suck out all the marrow of life!  
     To put to rout all that was not life.  
@@ -51,25 +51,14 @@ hide:
     when I came to die,  
     discover that I had not lived.  </font></center>
 
+<center><font  color= #518FC1 size=5 class="ml3">Enjoy my fucking life</font></center>
+
 快速谈话(1) 联系我(2)
 { .annotate }
 
 1. weixin: chinahaizeiwang
 2. 18405703031
 ***  
-
-<!-- <strong>推荐文章:material-book:</strong>
-
-  - [如何注册ChatGPT](develop/ChatGPT.md)
-  - [将Python文件.py打包成.exe可执行程序](blog/py/python.md)
-  - [Blogger](blog/index.md) 
-  - [利用Mkdocs部署静态网页至GitHub pages](blog/Mkdocs/mkdocs1.md)
-  - [如何给MKdocs添加友链](blog/Mkdocs/linktech.md)
-  - [Homebrew国内如何自动安装(国内地址)(Mac & Linux)](blog/Mac/homebrew.md)
-  - [好用/好玩网站分享](blog/Webplay.md)
-  - [Mac/windows软件网站汇总](blog/macsoft.md)
-  - [重庆旅游推荐路线](trip/InCQ/CQ.md)
-  - [留言板](waline.md) -->
 
 [^Knowing-that-loving-you-has-no-ending]:太阳总是能温暖向日葵  
 [^see-how-much-I-love-you]:All-problems-in-computer-science-can-be-solved-by-another-level-of-indirection
