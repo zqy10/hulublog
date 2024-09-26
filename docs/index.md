@@ -29,10 +29,10 @@ hide:
         const min = newDate.getMinutes() < 10 ? `0${newDate.getMinutes()}` : newDate.getMinutes();
         const s = newDate.getSeconds() < 10 ? `0${newDate.getSeconds()}` : newDate.getSeconds();
         const dict = {1: "一", 2: "二", 3: "三", 4: "四", 5: "五", 6: "六", 0: "天"};
-        
+
         return `${y}年${m}月${d}日 ${h}:${min}:${s} 星期${dict[day]}`;
     }
-
+    
     const timerId = setInterval(() => {
         const newDate = new Date();
         const p1 = document.querySelector(".p1");
@@ -42,7 +42,12 @@ hide:
     }, 1000);
 </script>
 </div> 
+
 </center>
+!!!success "Music for today"
+    <center>
+    [三人游](https://tool.liumingye.cn/music/#/search/M/song/%E4%B8%89%E4%BA%BA%E6%B8%B8) ———— 方大同
+    </center>
 !!! abstract "Enjoy the fucking life"
     <center><font size=4>I went to the woods because I wanted to live deliberately.  
     I wanted to live deep and suck out all the marrow of life!  
@@ -58,7 +63,7 @@ hide:
 
 1. weixin: chinahaizeiwang
 2. 18405703031
-***  
+***
 
 [^Knowing-that-loving-you-has-no-ending]:太阳总是能温暖向日葵  
 [^see-how-much-I-love-you]:All-problems-in-computer-science-can-be-solved-by-another-level-of-indirection

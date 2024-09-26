@@ -3,10 +3,23 @@ date:
   created: 2024-09-19
 ---
 
-# Happy new years eve!
+# Hello World!
 
-We hope you are all having fun and wish you all the best for the new year!
+Hope you are all having fun and wish you all the best!
 <!-- more -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
+Et quand tu briseras ta cage  
+
+On ira à la foire  
+
+On tournera la page et  
+
+Tu serreras mon corps  
+
+On partira à la nage  
+
+On aura la mer à boire  
+
+Tu manques pas de courage  
+
+Alors viens jouer dehors  
