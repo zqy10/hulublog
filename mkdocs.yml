@@ -1,14 +1,16 @@
-site_name: Hulu's Blog
+site_name: Hulu's Site
 site_description: Not when I came to die, discover that I had not lived
 
 theme:
   name: material
   font: false
   features:
+    - navigation.instant
+    - navigation.tracking
     - navigation.tabs
-    - navigation.sections
-    - navigation.indexes
-    - toc.integrate
+    - navigation.path
+    - navigation.expand
+    - toc.follow
     - navigation.top
     - serach.suggest
     - search.highlight
@@ -33,6 +35,7 @@ plugins:
   - search
   - blog:
       archive_date_format: MMMM yyyy
+  - tags
 
 extra:
   social:
@@ -51,8 +54,14 @@ extra_css:
   # - https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.1.0/style.css
 
 markdown_extensions:
+  - meta
+  - toc:
+      permalink: true
+      toc_depth: 3
   - pymdownx.highlight:
       anchor_linenums: true
+      linenums: true
+      linenums_style: pymdownx-inline
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - admonition
@@ -69,3 +78,6 @@ markdown_extensions:
 
 copyright: 
   Copyright &copy; 2024 <a href="https://github.com/zqy10" target="_blank" rel="noopener">Hulu ZQY</a>
+
+repo_url: https://github.com/zqy10/hulublog
+repo_name: zqy10/hulublog

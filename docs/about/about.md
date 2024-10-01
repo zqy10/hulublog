@@ -4,6 +4,9 @@ date:
 categories:
     - 笔记
 title: Github主页介绍
+hide:
+    - navigation
+    - toc
 ---
 <center>
 # 个人介绍
@@ -47,7 +50,6 @@ title: Github主页介绍
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)-->
 
-
 ## Connect with me
  <!--
 <p align="left">
@@ -63,10 +65,11 @@ title: Github主页介绍
 &nbsp; <a href="mailto:3230100228@zju.edu.cn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+
 ## Support me
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zqy307482)
 
-
+<center>
  <table>
     <tr>
         <td >
@@ -80,7 +83,7 @@ title: Github主页介绍
         </td>
     </tr>
 </table>
-
+</center>
 <center>
 <img src="https://ghchart.rshah.org/zqy10" width="80%" height="auto" alt="zqy10's Github chart" />
 </center>

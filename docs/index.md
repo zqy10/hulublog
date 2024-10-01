@@ -46,7 +46,7 @@ hide:
 </center>
 !!!success "Music for today"
     <center>
-    [三人游](https://tool.liumingye.cn/music/#/search/M/song/%E4%B8%89%E4%BA%BA%E6%B8%B8) ———— 方大同
+    [春风吹](https://tool.liumingye.cn/music/#/search/M/song/%E6%98%A5%E9%A3%8E%E5%90%B9) ———— 方大同
     </center>
 !!! abstract "Enjoy the fucking life"
     <center><font size=4>I went to the woods because I wanted to live deliberately.  
@@ -61,7 +61,7 @@ hide:
 快速谈话(1) 联系我(2)
 { .annotate }
 
-1. weixin: chinahaizeiwang
+1. wechat: chinahaizeiwang
 2. 18405703031
 ***
 

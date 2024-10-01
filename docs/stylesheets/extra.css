@@ -7,3 +7,7 @@ body {
     /* Screen version */
     /* font-family: "LXGW WenKai Screen", sans-serif; */
   }
+
+.md-grid {
+  max-width: 1450px; 
+}
