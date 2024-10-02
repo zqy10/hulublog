@@ -56,7 +56,7 @@ hide:
     when I came to die,  
     discover that I had not lived.  </font></center>
 
-<center><font  color= #518FC1 size=5 class="ml3">Enjoy my fucking life</font></center>
+<center><font  color= #518FC1 size=5 class="ml3">Dark mode better</font></center>
 
 快速谈话(1) 联系我(2)
 { .annotate }
@@ -67,6 +67,7 @@ hide:
 
 [^Knowing-that-loving-you-has-no-ending]:太阳总是能温暖向日葵  
 [^see-how-much-I-love-you]:All-problems-in-computer-science-can-be-solved-by-another-level-of-indirection
+
 
 <style>
 #rcorners3 {

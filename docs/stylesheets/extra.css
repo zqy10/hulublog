@@ -11,3 +11,18 @@ body {
 .md-grid {
   max-width: 1450px; 
 }
+ 
+h2 {
+  color: #00ffff; /* 绿色 */
+  font-weight: 900;
+}
+ 
+h3 {
+  color: #00aeae; /* 蓝色 */
+  font-weight: 900;
+}
+ 
+h4 {
+  color: #007979;
+}
+/* 以此类推，可以为h4, h5, 和h6设置不同的颜色 */
