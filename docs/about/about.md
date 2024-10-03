@@ -3,7 +3,7 @@ date:
     created: 2024-09-23
 categories:
     - 笔记
-title: Github主页介绍
+title: 主页介绍
 hide:
     - navigation
     - toc

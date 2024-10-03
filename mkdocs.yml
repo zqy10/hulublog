@@ -4,12 +4,15 @@ site_description: Not when I came to die, discover that I had not lived
 theme:
   name: material
   font: false
+  #logo: logo.png
+  #favicon: logo.png
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.path
     - navigation.expand
+    - navigation.footer
     - toc.follow
     - navigation.top
     - serach.suggest
