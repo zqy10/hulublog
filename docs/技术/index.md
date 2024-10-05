@@ -4,6 +4,7 @@
     还没想好写点啥。
 
 !!!abstract "Materials"
+    [:star::star:The largest truly open library in human history](https://annas-archive.org/)  
     [:star:斯坦福公开课-李飞飞](https://www.youtube.com/watch?v=vT1JzLTH4G4)  
     [From Python To Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy)  
     [Numpy Manual](https://numpy.org/doc/stable/user/basics.copies.html)  
@@ -20,7 +21,7 @@
     
 
 !!!warning
-    :star:以下所有pdf资料仅供个人学习，<font color='red'><strong>禁止转载传播</strong></font>。  
+    :star: 以下所有pdf资料仅供个人学习，<font color='red'><strong>禁止转载传播</strong></font>。  
     pdf资源加载较慢，请耐心等待。
 
 !!!abstract "Book List"

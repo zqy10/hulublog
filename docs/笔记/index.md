@@ -1,8 +1,9 @@
 # Not when I came to die, discover that I had not lived
 
-!!!tip "板块介绍:star:"
+!!!tip "板块介绍"
     记录学习，已有佛学板块，准备加入电影和读书笔记。  
-    阅读佛经可以看[这个网站](https://www.fojingonline.com/)
+    阅读佛经可以看[这个网站](https://www.fojingonline.com/)  
+    找书来这里：[The largest truly open library in human history](https://annas-archive.org/). 
 
 !!!warning
     :star:本站所有pdf资源仅供个人学习，<font color='red'><strong>禁止转载传播</strong></font>。  

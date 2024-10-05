@@ -4,9 +4,9 @@ date:
 categories:
     - 笔记
 title: 主页介绍
-hide:
-    - navigation
-    - toc
+#hide:
+#    - navigation
+#    - toc
 ---
 <center>
 # 个人介绍
@@ -84,6 +84,26 @@ hide:
     </tr>
 </table>
 </center>
-<center>
-<img src="https://ghchart.rshah.org/zqy10" width="80%" height="auto" alt="zqy10's Github chart" />
-</center>
+
+<!-- Include the library. -->
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
+></script>
+
+<!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
+<link
+   rel="stylesheet"
+   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
+
+<!-- Prepare a container for your calendar. -->
+<div class="calendar">
+    <!-- Loading stuff -->
+    Loading the data just for you.
+</div>
+
+<script>
+    GitHubCalendar(".calendar", "zqy10");
+    // or enable responsive functionality
+    GitHubCalendar(".calendar", "zqy10", { responsive: true });
+</script>
