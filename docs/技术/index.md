@@ -4,6 +4,7 @@
     还没想好写点啥。
 
 !!!abstract "Materials"
+    [:star:斯坦福公开课-李飞飞](https://www.youtube.com/watch?v=vT1JzLTH4G4)  
     [From Python To Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy)  
     [Numpy Manual](https://numpy.org/doc/stable/user/basics.copies.html)  
     [Numpy-Basic](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)  
@@ -15,12 +16,15 @@
     [ROS-Tutorial](http://www.autolabor.com.cn/book/ROSTutorials/)  
     [Compiler-Explorer](https://godbolt.org)  
     [Dock-Basic](https://docs.docker.com/guides/workshop/)  
-    [PyTorch-Tutorial](https://pytorch.org/tutorials/)
+    [PyTorch-Tutorial](https://pytorch.org/tutorials/)  
+    
 
 !!!warning
-    :star:以下所有pdf资料仅供个人学习，禁止转载传播。
+    :star:以下所有pdf资料仅供个人学习，<font color='red'><strong>禁止转载传播</strong></font>。  
+    pdf资源加载较慢，请耐心等待。
 
 !!!abstract "Book List"
+    程序员的自我修养  
     [深入理解计算机系统](resources/深入理解计算机系统(第3版).pdf)  
     [并行程序设计导论](resources/An Introduction to Parallel Programming(Z-Library).pdf)
 

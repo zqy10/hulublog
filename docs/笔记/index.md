@@ -5,7 +5,8 @@
     阅读佛经可以看[这个网站](https://www.fojingonline.com/)
 
 !!!warning
-    :star:本站所有pdf资源仅供个人学习，禁止转载传播。
+    :star:本站所有pdf资源仅供个人学习，<font color='red'><strong>禁止转载传播</strong></font>。  
+    pdf资源加载较慢，请耐心等待。
 
 !!!abstract "Book List"
     佛学纲要 ———— 蒋维乔  
