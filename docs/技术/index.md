@@ -6,6 +6,7 @@
 !!!abstract "Materials"
     [:star::star:The largest truly open library in human history](https://annas-archive.org/)  
     [:star:斯坦福公开课-李飞飞](https://www.youtube.com/watch?v=vT1JzLTH4G4)  
+    [:star:AI Agent综述](https://arxiv.org/pdf/2401.03568)  
     [From Python To Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy)  
     [Numpy Manual](https://numpy.org/doc/stable/user/basics.copies.html)  
     [Numpy-Basic](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)  
