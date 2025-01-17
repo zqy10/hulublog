@@ -45,8 +45,8 @@ hide:
 
 </center>
 !!!success "Music for today"
-    <center>
-    [春风吹](https://tool.liumingye.cn/music/#/search/M/song/%E6%98%A5%E9%A3%8E%E5%90%B9) ———— 方大同
+    <center><font size=4>
+    [春风吹](https://tool.liumingye.cn/music/#/search/M/song/%E6%98%A5%E9%A3%8E%E5%90%B9) ———— 方大同</font>
     </center>
 !!! abstract "Enjoy the fucking life"
     <center><font size=4>I went to the woods because I wanted to live deliberately.  
