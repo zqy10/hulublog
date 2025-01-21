@@ -26,3 +26,16 @@ h4 {
   color: #007979;
 }
 /* 以此类推，可以为h4, h5, 和h6设置不同的颜色 */
+
+/* Black Beauty 配色方案：*/
+:root > * {
+  --md-code-hl-comment-color: #2b7f3b;
+  --md-code-bg-color: #0f0420;
+  --md-code-hl-operator-color: #f000eb;
+  --md-code-hl-number-color: #edd116;
+  --md-code-hl-constant-color: #04b6ea;
+  --md-code-hl-keyword-color: #f000eb;
+  --md-code-fg-color: #ffffff;
+  --md-code-hl-punctuation-color: #edd116;
+  --md-code-hl-function-color: #ffffff;
+}
