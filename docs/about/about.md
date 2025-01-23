@@ -8,8 +8,11 @@ hide:
     #- toc
 ---
 # Hulu's Blog
+
+<!-- banner -->
  [![MasterHead](images/banner.png)](https://github.com/zqy10)
 
+<!-- badges -->
 <center>
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
@@ -32,6 +35,7 @@ hide:
 ![123](https://komarev.com/ghpvc/?username=zqy10&style=flat)
 </center>
 
+<!-- githubstates -->
 <center>
  ![me](images/asd.png) &emsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zqy10&show_icons=true&theme=radical&card_width=400)](https://github.com/zqy10)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zqy10&theme=radical&card_width=420)](https://github.com/zqy10)
  </center>
@@ -51,31 +55,14 @@ hide:
 📖 保持关注我的博客，让我们共同追求技术卓越。
 
 
-<!-- https://camo.githubusercontent.com/721d7c9349f174953eec9227b6e10303d0eebad1a2737667fe44a9489c8cb141/68747470733a2f2f73322e6c6f6c692e6e65742f323032332f30382f31342f5a394c6a58704b464f51694a6d76412e706e67 -->
-
-
-
- <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)  
-[![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=Wcowin&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&locale=zh-my)](#)  -->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wcowin)](https://github.com/anuraghazra/github-readme-stats)-->
-
 ## Connect with me
- <!--
-<p align="left">
-&nbsp; <a href="https://twitter.com/Wcowin_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/wcowin_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="mailto:wangkewen821@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
--->
-
 <p align="left">
 &nbsp; <a href="https://twitter.com/_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="mailto:3230100228@zju.edu.cn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-
+<!-- githubcommmits -->
 <center>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zqy10&theme=rogue)](https://github.com/zqy10)
 </center>
