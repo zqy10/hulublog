@@ -3,43 +3,23 @@ date:
     created: 2024-09-23
 categories:
     - 笔记
-title: 主页介绍
-#hide:
-#    - navigation
-#    - toc
+hide:
+    - navigation
+    #- toc
 ---
-<center>
-# 个人介绍
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&width=435&lines=Hi+there%2C+this+is+Hulu's+blog)](https://git.io/typing-svg)
-</center>
+# Hulu's Blog
  [![MasterHead](images/banner.png)](https://github.com/zqy10)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zqy10&show_icons=true&theme=radical&card_width=400)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zqy10&theme=radical&card_width=420)](https://git.io/streak-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zqy10&layout=compact&theme=radical) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zqy10&repo=hulublog&theme=radical&card_width=300)   
-
-
-
+<center>
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Lenovo](https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+</center>
     
 <center>
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/zqy10)
@@ -52,22 +32,23 @@ title: 主页介绍
 ![123](https://komarev.com/ghpvc/?username=zqy10&style=flat)
 </center>
 
-
- <center>
- ![me](images/408_1721636892_hd.jpeg)   
+<center>
+ ![me](images/asd.png) &emsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zqy10&show_icons=true&theme=radical&card_width=400)](https://github.com/zqy10)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zqy10&theme=radical&card_width=420)](https://github.com/zqy10)
  </center>
 
 
-
 ## About me
-  * A student in ZJU :student:
-  * Major in robotics
-  * Spending my spare time hiking and traveling
-  * Heavy tea drinker ☕
-  * Love tossing technology/Math 💻
-  * Read books;interested in Buddhism 📖
-  * good at badminton :badminton:
+👋 你好，我是 Hulu，浙江大学本科生在读，机器人工程专业。座右铭：Technology has the power to make the world a better place.
 
+🚀 我对技术的热情是我不断学习和分享的动力。我的博客是一个关于各类编程语言以及课程学习经验、最新技术趋势的地方。
+
+🧠 作为一个机器人爱好者，我不仅热衷于探索语言的新特性和技术的深度，还热衷于分享我的见解和最佳实践。我相信知识的分享和社区合作可以帮助我们共同成长。
+
+💡 在我的博客上，你将找到丰富多彩的内容，包括影视、佛学、数据结构，以至于各类编程语言，人工智能初步，机器人初步相关的笔记。我也是在不断学习的过程中，希望以后能够加入更加丰富和具有深度的内容。
+
+🌐 我鼓励互动和建立社区，因此请留下你的问题、建议或主题请求，让我知道你感兴趣的内容。此外，我将分享最新的互联网和技术资讯，以确保你与技术世界的最新发展保持联系。我期待与你一起在技术之路上前进，一起探讨技术世界的无限可能性。
+
+📖 保持关注我的博客，让我们共同追求技术卓越。
 
 
 <!-- https://camo.githubusercontent.com/721d7c9349f174953eec9227b6e10303d0eebad1a2737667fe44a9489c8cb141/68747470733a2f2f73322e6c6f6c692e6e65742f323032332f30382f31342f5a394c6a58704b464f51694a6d76412e706e67 -->
@@ -95,5 +76,6 @@ title: 主页介绍
 </p>
 
 
-## Support me
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zqy307482)
+<center>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zqy10&theme=rogue)](https://github.com/zqy10)
+</center>
