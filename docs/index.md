@@ -67,7 +67,7 @@ hide:
 2. 18405703031
 ***
 
-[^Knowing-that-loving-you-has-no-ending]:太阳总是能温暖向日葵  
+[^Knowing-that-loving-you-has-no-ending]:建议启用外网以体验网站完整功能  
 [^see-how-much-I-love-you]:All-problems-in-computer-science-can-be-solved-by-another-level-of-indirection
 
 
