@@ -11,24 +11,25 @@ body {
 .md-grid {
   max-width: 1450px; 
 }
+
  
 h2 {
   color: #00ffff; /* 绿色 */
   font-weight: 900;
 }
- 
+
 h3 {
   color: #00aeae; /* 蓝色 */
   font-weight: 900;
 }
- 
+
 h4 {
   color: #007979;
 }
 /* 以此类推，可以为h4, h5, 和h6设置不同的颜色 */
 
-/* Black Beauty 配色方案：*/
 :root > * {
+  /* code blocks Black Beauty 配色方案 */
   --md-code-hl-comment-color: #2b7f3b;
   --md-code-bg-color: #0f0420;
   --md-code-hl-operator-color: #f000eb;
@@ -38,4 +39,7 @@ h4 {
   --md-code-fg-color: #ffffff;
   --md-code-hl-punctuation-color: #edd116;
   --md-code-hl-function-color: #ffffff;
+
+  /* 主题颜色修改 */
+  --md-default-fg-color--light: #ffffff;
 }

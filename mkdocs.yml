@@ -1,5 +1,6 @@
 site_name: Hulu's Blog
 site_description: Not when I came to die, discover that I had not lived
+site_author: ZhengQiaoyu
 
 theme:
   name: material
@@ -21,16 +22,7 @@ theme:
     - content.code.annotation
     - content.code.copy
   palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-      primary: indigo
-      accent: purple
     - scheme: slate
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
       primary: deep purple
       accent: purple  
 

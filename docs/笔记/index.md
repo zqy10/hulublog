@@ -1,5 +1,6 @@
 # Not when I came to die, discover that I had not lived
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&width=435&lines=Hi+there%2C+this+is+Hulu's+blog)](https://git.io/typing-svg)
 !!!tip "板块介绍"
     记录学习，笔记中有不对处，欢迎讨论。  
     阅读佛经可以看[这个网站](https://www.fojingonline.com/)  
