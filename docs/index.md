@@ -58,10 +58,6 @@ hide:
     when I came to die,  
     discover that I had not lived.  </font></center>
 
-
-
-<center><font  color= #518FC1 size=5 class="ml3">May The Force Be With You.</font></center>
-
 快速谈话(1) 联系我(2)
 { .annotate }
 

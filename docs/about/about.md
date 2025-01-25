@@ -66,3 +66,8 @@ hide:
 <center>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zqy10&theme=rogue)](https://github.com/zqy10)
 </center>
+
+---
+
+Random dev joke for you!  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
