@@ -7,7 +7,7 @@ hide:
     - navigation
     #- toc
 ---
-# Hulu's Blog
+# 
 
 <!-- banner -->
  [![MasterHead](images/banner.png)](https://github.com/zqy10)

@@ -5,7 +5,7 @@ site_author: ZhengQiaoyu
 theme:
   name: material
   font: false
-  #logo: logo.png
+  #logo: hulublog.png
   #favicon: logo.png
   features:
     - navigation.instant

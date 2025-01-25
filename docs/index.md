@@ -1,14 +1,14 @@
 ---
+title: Home
 hide:
    - navigation # 显示右
    - toc #显示左
 ---
+# ![hulu](hulublog.png)&emsp;&emsp;&emsp;&emsp;&emsp;&thinsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&width=435&lines=Hi+there%2C+this+is+Hulu's+blog)](https://git.io/typing-svg)
 
-# Home
-<center>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&width=435&lines=Hi+there%2C+this+is+Hulu's+blog)](https://git.io/typing-svg)</center><center>
-<font  color= #518FC1 size=6 class="ml3">“我愿化身石桥”</font></center>
+<center><font  color= #518FC1 size=6 class="ml3">“循此苦旅，以达星辰”</font></center>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+
 <center>
 <div id="rcorners2" >
 
@@ -44,8 +44,8 @@ hide:
     }, 1000);
 </script>
 </div> 
-
 </center>
+
 !!!success "Music for today"
     <center><font size=4>
     [春风吹](https://tool.liumingye.cn/music/#/search/M/song/%E6%98%A5%E9%A3%8E%E5%90%B9) ———— 方大同</font>
@@ -57,6 +57,8 @@ hide:
     And not,  
     when I came to die,  
     discover that I had not lived.  </font></center>
+
+
 
 <center><font  color= #518FC1 size=5 class="ml3">May The Force Be With You.</font></center>
 
