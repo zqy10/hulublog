@@ -37,7 +37,7 @@ hide:
 
 <!-- githubstates -->
 <center>
- ![me](images/asd.png) &emsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zqy10&show_icons=true&theme=radical&card_width=400)](https://github.com/zqy10)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zqy10&theme=radical&card_width=420)](https://github.com/zqy10)
+ ![me](images/avatar.png) &emsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zqy10&show_icons=true&theme=radical&card_width=400)](https://github.com/zqy10)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zqy10&theme=radical&card_width=420)](https://github.com/zqy10)
  </center>
 
 
