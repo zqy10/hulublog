@@ -42,4 +42,23 @@ h4 {
 
   /* 主题颜色修改 */
   --md-default-fg-color--light: #ffffff;
+  --md-primary-fg-color: #52057b;
+
+  /*网页圆角全局变量*/
+  --base-border-radius: 0.5rem;
+}
+
+/*搜索框圆角*/
+.md-search__form {
+  border-radius: var(--base-border-radius);
+}
+
+[data-md-toggle="search"]:checked ~ .md-header .md-search__form {
+  border-top-right-radius: var(--base-border-radius);
+  border-top-left-radius: var(--base-border-radius);
+}
+
+[dir="ltr"] .md-search__output {
+  border-bottom-right-radius: var(--base-border-radius);
+  border-bottom-left-radius: var(--base-border-radius);
 }

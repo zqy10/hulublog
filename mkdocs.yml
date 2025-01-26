@@ -24,7 +24,8 @@ theme:
   palette:
     - scheme: slate
       primary: deep purple
-      accent: purple  
+      accent: purple
+  custom_dir: docs/overrides  
 
 plugins:
   - search
@@ -78,6 +79,7 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/mathjax.js
+  #- javascripts/blossom.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 copyright: 
