@@ -51,6 +51,9 @@ extra_css:
 
 markdown_extensions:
   - meta
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - toc:
       permalink: true
       toc_depth: 3
