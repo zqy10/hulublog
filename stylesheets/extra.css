@@ -1,0 +1,64 @@
+body {
+    font-family: "LXGW WenKai", sans-serif;
+    /* Lite version */
+    /* font-family: "LXGW WenKai Lite", sans-serif; */
+    /* TC version */
+    /* font-family: "LXGW WenKai TC", sans-serif; */
+    /* Screen version */
+    /* font-family: "LXGW WenKai Screen", sans-serif; */
+  }
+
+.md-grid {
+  max-width: 1450px; 
+}
+
+ 
+h2 {
+  color: #00ffff; /* 绿色 */
+  font-weight: 900;
+}
+
+h3 {
+  color: #00aeae; /* 蓝色 */
+  font-weight: 900;
+}
+
+h4 {
+  color: #007979;
+}
+/* 以此类推，可以为h4, h5, 和h6设置不同的颜色 */
+
+:root > * {
+  /* code blocks Black Beauty 配色方案 */
+  --md-code-hl-comment-color: #2b7f3b;
+  --md-code-bg-color: #0f0420;
+  --md-code-hl-operator-color: #f000eb;
+  --md-code-hl-number-color: #edd116;
+  --md-code-hl-constant-color: #04b6ea;
+  --md-code-hl-keyword-color: #f000eb;
+  --md-code-fg-color: #ffffff;
+  --md-code-hl-punctuation-color: #edd116;
+  --md-code-hl-function-color: #ffffff;
+
+  /* 主题颜色修改 */
+  --md-default-fg-color--light: #ffffff;
+  --md-primary-fg-color: #52057b;
+
+  /*网页圆角全局变量*/
+  --base-border-radius: 0.5rem;
+}
+
+/*搜索框圆角*/
+.md-search__form {
+  border-radius: var(--base-border-radius);
+}
+
+[data-md-toggle="search"]:checked ~ .md-header .md-search__form {
+  border-top-right-radius: var(--base-border-radius);
+  border-top-left-radius: var(--base-border-radius);
+}
+
+[dir="ltr"] .md-search__output {
+  border-bottom-right-radius: var(--base-border-radius);
+  border-bottom-left-radius: var(--base-border-radius);
+}
