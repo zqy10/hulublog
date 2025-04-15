@@ -56,7 +56,7 @@ markdown_extensions:
       custom_checkbox: true
   - toc:
       permalink: true
-      toc_depth: 3
+      toc_depth: 4
   - pymdownx.highlight:
       use_pygments: true
       pygments_lang_class: true
